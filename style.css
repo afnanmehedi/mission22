@@ -1,0 +1,109 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0%;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+.top-banner {
+  background-color: rgb(228, 247, 247);
+}
+section {
+  margin: 30px;
+}
+.orange {
+  color: orangered;
+}
+.btn1 {
+  text-decoration: none;
+  background-color: rgb(255, 173, 72);
+  padding: 10px 30px;
+  color: white;
+  font-weight: 700;
+  border-radius: 50px;
+}
+.flexibity {
+  display: flex;
+}
+
+.half-width {
+  width: 40%;
+  padding-left: 4%;
+  text-align: center;
+}
+
+.half-width img {
+  width: 60%;
+}
+
+.top-div1 {
+  margin-top: 6%;
+}
+
+.mis22 {
+  text-align: center;
+}
+
+.card {
+  width: 30%;
+  margin: 10px 40px;
+  border-radius: 15px;
+  text-align: center;
+  background-color: rgb(22, 184, 224);
+}
+.card img {
+  width: 50%;
+}
+.ccolor1 {
+  background-color: rgb(252, 247, 241);
+}
+.ccolor2 {
+  background-color: rgb(253, 217, 174);
+}
+.ccolor3 {
+  background-color: rgb(224, 218, 209);
+}
+
+.section2 {
+  background-image: url(img/shape1.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  padding: 10px;
+}
+.section3 {
+  background-image: url(img/shape-5.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  padding: 10px;
+}
+.section5 {
+  background-color: rgb(250, 250, 244);
+  padding: 10px;
+  margin: 40px;
+  text-align: center;
+}
+
+.section5 img {
+  width: 50%;
+}
+.text5 {
+  margin-top: 50px;
+}
+
+footer {
+  background-color: rgb(2, 2, 2);
+}
+footer h1 {
+  text-align: center;
+  color: aliceblue;
+  font-weight: 800;
+  padding-top: 6px;
+}
+footer p {
+  text-align: center;
+  color: aliceblue;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
